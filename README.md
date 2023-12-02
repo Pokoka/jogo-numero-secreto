@@ -1,4 +1,4 @@
-# Jogo de adivinhação: Número Sectreto
+# Jogo de adivinhação: Número Secreto
 
 > Jogo desenvolvido em JavaScript durante o curso de Lógica de Programação da Alura.
 
