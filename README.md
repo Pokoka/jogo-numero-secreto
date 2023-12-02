@@ -25,7 +25,7 @@ O **Número Secreto** é um mini game desenvolvido como parte dos cursos da Alur
 6. O objetivo é descobrir o número com o menor número de tentativas.
 
 ## Dados
-Natalia Berbet Viana - [@Natalia](https://www.linkedin.com/in/nataliaberbetviana/) - nataliaberbetvianadev@gmail.com 
+### Natalia Berbet Viana - [@Natalia](https://www.linkedin.com/in/nataliaberbetviana/) - nataliaberbetvianadev@gmail.com 
 
 ### [Clique para ver outros repositórios](https://github.com/Pokoka)
 
