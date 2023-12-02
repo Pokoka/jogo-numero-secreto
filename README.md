@@ -1,77 +1,31 @@
-# Nome do produto
-> Descrição curta sobre o que seu projeto faz.
+# Jogo de adivinhação: Número Sectreto
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+> Jogo desenvolvido em JavaScript durante o curso de Lógica de Programação da Alura.
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+O **Número Secreto** é um mini game desenvolvido como parte dos cursos da Alura, com foco em lógica de programação utilizando a linguagem JavaScript. O jogo desafia os jogadores a adivinharem um número secreto gerado aleatoriamente dentro de um intervalo definido. Os jogadores podem fazer várias tentativas para descobrir o número secreto.
 
-![](../header.png)
+## Funcionalidades
+   - Gerar um número aleatório dentro de um intervalo pré-determinado.
+   - A interface é interativa, permitindo a inserção das tentativas.
+   - Feedback se a tentativa foi bem sucedida ou não e se está maior ou menor que o número sorteado.
+   - Contagem de tentativas.
+## Tecnologias
+   - JavaScript
+   - CSS
+   - Git e GitHub
 
-## Instalação
+## Screenshots
 
-OS X & Linux:
+## Como Jogar
+1. Abra o jogo no navegador.
+2. O jogo irá gerar um número aleatório dentro do intervalo determinado na gerção do código.
+3. Insira sua tentativa no campo fornecido e clique no botão "Enviar".
+4. O jogo fornecerá o feedback sobre a tentativa, informando se foi alta, baixa ou se está correta.
+5. Continue fazendo as tentativas até descobrir o número sorteado.
+6. O objetivo é descobrir o número com o menor número de tentativas.
 
-```sh
-npm install my-crazy-module --save
-```
+## Dados
+Natalia Berbet Viana - [@Natalia](https://www.linkedin.com/in/nataliaberbetviana/) - nataliaberbetvianadev@gmail.com 
 
-Windows:
+### [Clique para ver outros repositórios](https://github.com/Pokoka)
 
-```sh
-edit autoexec.bat
-```
-
-## Exemplo de uso
-
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
-
-_Para mais exemplos, consulte a [Wiki][wiki]._ 
-
-## Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-```sh
-make install
-npm test
-```
-
-## Histórico de lançamentos
-
-* 0.2.1
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1
-    * Trabalho em andamento
-
-## Meta
-
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
-
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
-
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
-
-## Contributing
-
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
-4. _Push_ (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
-
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
